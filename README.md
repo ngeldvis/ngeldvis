@@ -7,7 +7,15 @@
 * C
 * Python
 * Java
+* HTML/CSS
+* JavaScript
 
+#### Technologies I've Used ####
+
+* NodeJS
+* jQuery
+* Express
+* MySQL
 
 <!--
 **ngeldvis/ngeldvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
