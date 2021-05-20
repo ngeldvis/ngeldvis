@@ -2,20 +2,9 @@
 
 ### My Skillset: ###
 
-#### Programming Languages ####
-
-* C
-* Python
-* Java
-* HTML/CSS
-* JavaScript
-
-#### Technologies I've Used ####
-
-* NodeJS
-* jQuery
-* Express
-* MySQL
+**Programming Languages:** C, Python, Java, HTML, CSS, JavaScript </br>
+**Technologies I've Used:** Node.js, jQuery, MySQL </br>
+**Additional Technical Skills:** Linux, Web Scraping </br>
 
 <!--
 **ngeldvis/ngeldvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
