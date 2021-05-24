@@ -1,21 +1,12 @@
-## Hi there 👋 ##
+<h2 align="center">Hey! I'm Nigel</h2>
+<p align="center">2nd year Computer Science student and aspiring Software Developer<p>
+  
+ ## Skillset
 
-### My Skillset: ###
+</br>
+<p><img width="70" alt="C" src="https://raw.githubusercontent.com/ngeldvis/ngeldvis/main/rsc/imgs/c.png">&emsp;&emsp;<img width="70" alt="Python" src="https://raw.githubusercontent.com/ngeldvis/ngeldvis/main/rsc/imgs/python.png">&emsp;&emsp;<img width="70" alt="Java" src="https://raw.githubusercontent.com/ngeldvis/ngeldvis/main/rsc/imgs/java.png">&emsp;&emsp;<img width="70" alt="Linux" src="https://raw.githubusercontent.com/ngeldvis/ngeldvis/main/rsc/imgs/linux.png"> </p>
+</br>
 
-**Programming Languages:** C, Python, Java, HTML, CSS, JavaScript </br>
+**Programming Language:** C, Python, Java, HTML, CSS, JavaScript </br>
 **Technologies I've Used:** Node.js, jQuery, MySQL </br>
-**Additional Technical Skills:** Linux, Web Scraping </br>
-
-<!--
-**ngeldvis/ngeldvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+**Additional Technical Skills:** Linux, Web Scraping
