@@ -5,4 +5,4 @@
 
 <p align="center">I have experience with programming languages such as <strong>C</strong>, <strong>Python</strong>, and <strong>Java</strong>. More recently, I have been expanding my skill set by learning basic web development using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>Javascript</strong>.</p>
 
-<p align="center">checkout my website <a href="https://www.nigeldavis.com">nigeldavis.com</a><p>
+<p align="center">checkout my website <a href="https://www.nigeldavis.com" target="_blank">nigeldavis.com</a><p>
