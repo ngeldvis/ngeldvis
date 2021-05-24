@@ -1,5 +1,5 @@
 <h2 align="center">Hey! I'm Nigel</h2>
-<p align="center">2nd year Computer Science student and aspiring Software Developer<p>
+<p align="center">2nd year Computer Science student at the University of Guelph<p>
   
  ## Skillset
 
