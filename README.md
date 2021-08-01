@@ -10,6 +10,7 @@ I have experience with programming languages such as **C**, **Python**, and **Ja
 <img align="left" alt="C (Programming Language)" height="26px" src="https://raw.githubusercontent.com/ngeldvis/ngeldvis/main/rsc/imgs/c.png">
 <img align="left" alt="Java" height="26px" src="https://raw.githubusercontent.com/ngeldvis/ngeldvis/main/rsc/imgs/java.png">
 <img align="left" alt="Linux" height="26px" src="https://raw.githubusercontent.com/ngeldvis/ngeldvis/main/rsc/imgs/linux.png">
+<img align="left" alt="git" height="26px" src="https://raw.githubusercontent.com/ngeldvis/ngeldvis/main/rsc/imgs/git.png">
 <img align="left" alt="HTML" height="26px" src="https://raw.githubusercontent.com/ngeldvis/ngeldvis/main/rsc/imgs/html.png">
 <img align="left" alt="CSS" height="26px" src="https://raw.githubusercontent.com/ngeldvis/ngeldvis/main/rsc/imgs/css.svg">
 <img align="left" alt="JavaScript" height="26px" src="https://raw.githubusercontent.com/ngeldvis/ngeldvis/main/rsc/imgs/javascript.png">
