@@ -20,7 +20,8 @@ I have experience with programming languages such as **C**, **Python**, and **Ja
 
 ### Connect with me
 
-[<img align="left" alt="Email" height="26px" src="https://raw.githubusercontent.com/ngeldvis/ngeldvis/main/rsc/icons/email.svg">][email]
+[<img align="left" alt="Email" height="26px" src="https://raw.githubusercontent.com/ngeldvis/ngeldvis/169a9da38a95dfbab5a66990a9e2e0b8b70e407c/rsc/icons/email.svg">][email]
+[<img align="left" alt="LinkedIn" height="26px" src="https://raw.githubusercontent.com/ngeldvis/ngeldvis/169a9da38a95dfbab5a66990a9e2e0b8b70e407c/rsc/icons/linkedin.svg">][linkedin]
 
 <br />
 <br />
