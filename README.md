@@ -1,4 +1,4 @@
-## Hey! I'm Nigel 👋🏼
+## 👋 Hey! I'm Nigel
 
 I'm a second year **Computer Science** student at the **University of Guelph**.
 
