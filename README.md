@@ -28,6 +28,9 @@ I have experience with programming languages such as **C**, **Python**, and **Ja
 
 checkout my website [nigeldavis.com][website]
 
+<!-- Variables -->
+
 [website]: https://www.nigeldavis.com
 [linkedin]: https://www.linkedin.com/in/ngeldvis/
+[instagram]: https://www.instagram.com/ngeldvis/
 [email]: mailto:ngeldvis@gmail.com
