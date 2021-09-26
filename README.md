@@ -14,6 +14,7 @@ I have experience with programming languages such as **C**, **Python**, and **Ja
 <img align="left" alt="CSS" height="30px" src="assets/images/css.svg">
 <img align="left" alt="JavaScript" height="30px" src="assets/images/javascript.png">
 <img align="left" alt="Vue" height="30px" src="assets/images/vue.png">
+<img align="left" alt="Docker" height="30px" src="assets/images/docker.png">
 
 <br />
 
