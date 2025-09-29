@@ -1,6 +1,6 @@
 ## 👋 Hey! I'm Nigel
 
-I'm a second year **Computer Science** student at the **University of Guelph**.
+I'm a **Computer Science** graduate from the **University of Guelph**.
 
 I have experience with programming languages such as **C**, **Python**, and **Java**. More recently, I have been expanding my skill set by learning basic web development using **HTML**, **CSS**, and **JavaScript**.
 
